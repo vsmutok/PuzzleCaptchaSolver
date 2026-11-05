@@ -107,3 +107,14 @@ _This repository is created for informational purposes only. I do not advise or 
 
 ___
 ⭐️ If you found this project helpful, please give it a star on GitHub!
+
+___
+## Star History
+
+<a href="https://www.star-history.com/?repos=vsmutok%2Fpuzzlecaptchasolver&type=timeline&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=vsmutok/puzzlecaptchasolver&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=vsmutok/puzzlecaptchasolver&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=vsmutok/puzzlecaptchasolver&type=date&legend=top-left" />
+ </picture>
+</a>
