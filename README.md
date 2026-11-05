@@ -1,18 +1,18 @@
 # Puzzle Captcha Solver 🧩🧩
 
-PuzzleCaptchaSolver is a Python project designed to solve various puzzle CAPTCHAs such as Geetest3, Geetest4, Binance, DataDome, TikTok, and others. This project leverages OpenCV to process images and identify the position of the puzzle piece (slide) within the background image.
+PuzzleCaptchaSolver is a Python project designed to solve various puzzle CAPTCHAs such as Geetest3, Geetest4, Binance, DataDome, TikTok, ARCcaptcha, and others. This project leverages OpenCV to process images and identify the position of the puzzle piece (slide) within the background image.
 
 ---
 
 <a href="https://github.com/vsmutok/FuckCaptcha">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vsmutok/FuckCaptcha/main/assets/brand/readme-banner-light.png">
-    <img src="https://raw.githubusercontent.com/vsmutok/FuckCaptcha/main/assets/brand/readme-banner.png" alt="FuckCaptcha — the field guide to 38 CAPTCHA types">
+    <img src="https://raw.githubusercontent.com/vsmutok/FuckCaptcha/main/assets/brand/readme-banner.png" alt="FuckCaptcha — the field guide to 39 CAPTCHA types">
   </picture>
 </a>
 
 > [!TIP]
-> **Looking for more than slider puzzles?** Check out **[FuckCaptcha](https://github.com/vsmutok/FuckCaptcha)** — an open field guide to **38 CAPTCHA types**: detection signals, free and open-source approaches, and paid fallbacks in one place.
+> **Looking for more than slider puzzles?** Check out **[FuckCaptcha](https://github.com/vsmutok/FuckCaptcha)** — an open field guide to **39 CAPTCHA types**: detection signals, free and open-source approaches, and paid fallbacks in one place.
 >
 > Related guides: [GeeTest](https://github.com/vsmutok/FuckCaptcha/blob/main/docs/captchas/geetest.md) · [Slider](https://github.com/vsmutok/FuckCaptcha/blob/main/docs/captchas/slider.md) · [Binance](https://github.com/vsmutok/FuckCaptcha/blob/main/docs/captchas/binance.md) · [DataDome](https://github.com/vsmutok/FuckCaptcha/blob/main/docs/captchas/datadome.md) · [TikTok](https://github.com/vsmutok/FuckCaptcha/blob/main/docs/captchas/tiktok.md)
 >
@@ -87,6 +87,10 @@ In the resulting image, the detected position of the sliding piece is highlighte
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, feel free to open an issue or create a pull request.
+
+## Need Help?
+
+If you have trouble solving any type of CAPTCHA, feel free to [open an issue](https://github.com/vsmutok/Puzzle-Captcha-Solver/issues) or email me at [vasyl.smutok@gmail.com](mailto:vasyl.smutok@gmail.com), and I will try to help.
 
 ## License
 
