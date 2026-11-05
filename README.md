@@ -2,6 +2,24 @@
 
 PuzzleCaptchaSolver is a Python project designed to solve various puzzle CAPTCHAs such as Geetest3, Geetest4, Binance, DataDome, TikTok, and others. This project leverages OpenCV to process images and identify the position of the puzzle piece (slide) within the background image.
 
+---
+
+<a href="https://github.com/vsmutok/FuckCaptcha">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vsmutok/FuckCaptcha/main/assets/brand/readme-banner-light.png">
+    <img src="https://raw.githubusercontent.com/vsmutok/FuckCaptcha/main/assets/brand/readme-banner.png" alt="FuckCaptcha — the field guide to 38 CAPTCHA types">
+  </picture>
+</a>
+
+> [!TIP]
+> **Looking for more than slider puzzles?** Check out **[FuckCaptcha](https://github.com/vsmutok/FuckCaptcha)** — an open field guide to **38 CAPTCHA types**: detection signals, free and open-source approaches, and paid fallbacks in one place.
+>
+> Related guides: [GeeTest](https://github.com/vsmutok/FuckCaptcha/blob/main/docs/captchas/geetest.md) · [Slider](https://github.com/vsmutok/FuckCaptcha/blob/main/docs/captchas/slider.md) · [Binance](https://github.com/vsmutok/FuckCaptcha/blob/main/docs/captchas/binance.md) · [DataDome](https://github.com/vsmutok/FuckCaptcha/blob/main/docs/captchas/datadome.md) · [TikTok](https://github.com/vsmutok/FuckCaptcha/blob/main/docs/captchas/tiktok.md)
+>
+> **[Browse the interactive guide →](https://vsmutok.github.io/FuckCaptcha/)**
+
+---
+
 ## Features
 
 - **Whitespace Removal:** Automatically crops the image to remove any unnecessary whitespace.
@@ -24,7 +42,6 @@ PuzzleCaptchaSolver is a Python project designed to solve various puzzle CAPTCHA
    ```sh
    pip install -r requirements.txt
    ```
-
 
 ## Usage
 
@@ -53,13 +70,12 @@ if __name__ == "__main__":
 - Background Image
 > ![Background Image](demo/geetest4/1_bg.png)
 - Slide Image
->![Slide Image](demo/geetest4/1_slice.png)
+> ![Slide Image](demo/geetest4/1_slice.png)
 
 **Output Image**:
 > ![Result Image](demo/geetest4/1_result.png)
 
 In the resulting image, the detected position of the sliding piece is highlighted with a red rectangle.
-
 
 ### Methods
 
@@ -79,6 +95,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 - [OpenCV](https://opencv.org/) for their powerful image processing library.
+- [FuckCaptcha](https://github.com/vsmutok/FuckCaptcha) — the open field guide to CAPTCHA types, detection signals and solving strategies.
 
 ---
 
